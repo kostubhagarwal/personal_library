@@ -1,7 +1,7 @@
 # library
 my favorite books, movies, tv shows and blogs
 
-## Favourites
+# Favourites
 
 🥁 [whiplash](https://www.sonyclassics.com/whiplash/)
 
