@@ -80,3 +80,171 @@ Musashi
 Hackers and Painters
 
 Airborn
+
+#movies&tv
+
+movies
+
+Shawshank Redemption
+
+Lalaland
+
+Once Upon a Time in Hollywood
+
+Avatar
+
+Wolf of Wallstreet
+
+Dunkirk
+
+The Great Gatsby
+
+Get out
+
+Sicario I & II
+
+Life of Pi
+
+Hunt for the Wilderpeople
+
+Whiplash
+
+Inception
+
+Good Will Hunting
+
+Forest Gump
+
+Catch me if you can
+
+Revenant
+
+Fight club
+
+Skyfall
+
+Social Network
+
+Doctor Strange
+
+Parasite
+
+Silver linings playbook
+
+Peanut Butter falcon
+
+No country for old men
+
+Lady Bird
+
+Inglorious Basterds
+
+Lion
+
+Grand Budapest Hotel
+
+Shutter Island
+
+Little Women
+
+The Martian
+
+The Imitation Game
+
+First Man
+
+Les Miserables
+
+Ad Astra
+
+Black Panther
+
+A Star is Born
+
+Gifted
+
+Marriage story
+
+The Intouchables
+
+Warrior
+
+American Made
+
+Knives Out
+
+Hell or Highwater
+
+Pursuit of Happynesss
+
+Interstellar
+
+Lady Bird
+
+Tallulah
+
+Gifted
+
+No Time to Die
+
+The Gentlemen
+
+Ford vs Ferrari
+
+The Social Network
+
+Yesterday
+
+Tenet
+
+Perks of Being a Wallflower
+
+Thoroughbreds
+
+Kodachrome
+
+The Edge of Seventeen
+
+The Dig
+
+Moneyball
+
+Malcolm and Marie
+
+Sound of Metal
+
+Crazy Stupid Love
+
+Earthquake bird
+
+The Guernsey Literary and Potato Peel Pie Society
+
+Up in the Air
+
+Spiderman – No Way Home
+
+Don’t Look Up
+
+Wind River
+
+tv
+
+Euphoria
+
+Giri/Haji
+
+Prisonbreak
+
+Game of Thrones
+
+Chernobyl
+
+Westworld
+
+The Queens Gambit
+
+Yellowstone
+
+Maid
+
+Merlin
