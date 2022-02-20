@@ -1,5 +1,5 @@
 # library
-my favorite books, movies, and blogs
+my favorite books, movies, tv shows and blogs
 
 # books
 
