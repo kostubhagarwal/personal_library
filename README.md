@@ -81,9 +81,7 @@ Hackers and Painters
 
 Airborn
 
-#movies&tv
-
-movies
+# movies
 
 Shawshank Redemption
 
@@ -227,7 +225,7 @@ Don’t Look Up
 
 Wind River
 
-tv
+# tv
 
 Euphoria
 
