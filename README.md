@@ -91,6 +91,56 @@ Hackers and Painters
 
 Airborn
 
+# blogs
+
+*(no particular order)*
+
+[https://perell.com/essays/](https://perell.com/essays/)
+
+[https://nav.al/](https://nav.al/)
+
+[https://balajis.com/](https://balajis.com/)
+
+[https://cobie.substack.com/](https://cobie.substack.com/)
+
+[https://ofdollarsanddata.com/](https://ofdollarsanddata.com/)
+
+[https://visualizevalue.com/blogs/feed](https://visualizevalue.com/blogs/feed)
+
+[https://sahilbloom.substack.com/](https://sahilbloom.substack.com/)
+
+[https://youngmoneyweekly.substack.com/](https://youngmoneyweekly.substack.com/)
+
+[https://cdixon.org/](https://cdixon.org/)
+
+[https://sriramk.com/blog](https://sriramk.com/blog)
+
+[https://om.co/](https://om.co/)
+
+[https://jamesclear.com/3-2-1](https://jamesclear.com/3-2-1)
+
+[https://markmanson.net/](https://markmanson.net/)
+
+[https://paulstamatiou.com](https://paulstamatiou.com/)
+
+[https://tidefall.substack.com](https://tidefall.substack.com/)
+
+[https://tim.blog/](https://tim.blog/)
+
+[https://medium.com/@kevinrose](https://medium.com/@kevinrose)
+
+[https://thequestpod.substack.com/](https://thequestpod.substack.com/)
+
+[https://pomp.substack.com/](https://pomp.substack.com/)
+
+[https://1729.com/](https://1729.com/)
+
+[https://moxie.org/blog/](https://moxie.org/blog/)
+
+[https://afabrega.com/my-blog](https://afabrega.com/my-blog)
+
+[https://gabygoldberg.medium.com/](https://gabygoldberg.medium.com/)
+
 # movies
 
 Shawshank Redemption
