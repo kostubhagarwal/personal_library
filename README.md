@@ -1,6 +1,16 @@
 # library
 my favorite books, movies, tv shows and blogs
 
+## Favourites
+
+🥁 [whiplash](https://www.sonyclassics.com/whiplash/)
+
+⛷ [markus eder’s the ultimate run](https://youtu.be/fbqHK8i-HdA) 
+
+📖 [the art of learning](https://www.joshwaitzkin.com/the-art-of-learning) 
+
+📰 [the command line comeback](https://gabygoldberg.medium.com/the-command-line-comeback-9857b49c7423)
+
 # books
 
 *(no particular order)*
