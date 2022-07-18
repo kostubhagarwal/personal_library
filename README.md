@@ -91,6 +91,10 @@ Hackers and Painters
 
 Airborn
 
+Code
+
+The Network State
+
 # blogs
 
 *(no particular order)*
@@ -140,6 +144,20 @@ Airborn
 [https://afabrega.com/my-blog](https://afabrega.com/my-blog)
 
 [https://gabygoldberg.medium.com/](https://gabygoldberg.medium.com/)
+
+[https://www.collaborativefund.com/blog/](https://www.collaborativefund.com/blog/)
+
+[https://blog.samaltman.com/archive](https://blog.samaltman.com/archive)
+
+[The Monday Medley Archives](https://www.nateliason.com/medley)
+
+[https://slatestarcodex.com/](https://slatestarcodex.com/)
+
+[https://waitbutwhy.com/](https://waitbutwhy.com/)
+
+[https://www.matthewball.vc/](https://www.matthewball.vc/)
+
+[https://patrickcollison.com/](https://patrickcollison.com/)
 
 # movies
 
@@ -308,3 +326,5 @@ Maid
 Merlin
 
 Attack on Titan
+
+Stranger Things
